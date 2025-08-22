@@ -1,0 +1,5 @@
+
+.env
+.do/cache/
+.DS_Store
+.vscode/
