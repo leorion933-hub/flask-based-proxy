@@ -42,6 +42,10 @@ environs==14.1.1
 # Async tasks
 celery==5.5.2
 redis==6.1.0
+pyee==13.0.0
+greenlit==3.2.4
+typing-extensions==4.14.0
+yt-dlp==8.20
 
 # Testing
 pytest==8.3.5
